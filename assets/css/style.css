@@ -3632,7 +3632,7 @@ body {
   }
   
   .titulo{
-    font-family: "Montserrat Medium";
+    font-family: 'Montserrat';
     font-size: 55px;
     max-width: 40ch;
     transform: scale(0.94);
